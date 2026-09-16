@@ -1,0 +1,17 @@
+{
+  "short_name": "PranAyu",
+  "name": "PranAyu - AI Ayurvedic Health Assistant",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f8faf9",
+  "theme_color": "#047857",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Offline-ready AI Ayurvedic Health Assistant for remedies, symptoms, and rural wellness."
+}

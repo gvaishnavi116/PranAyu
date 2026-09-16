@@ -1,0 +1,6 @@
+{
+  "name": "PranAyu",
+  "description": "Your Personal AI Ayurvedic Health Assistant for symptom understanding, personalized home remedies, and wellness tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
